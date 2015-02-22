@@ -1,0 +1,34 @@
+---
+title: "index"
+author: "dogvile"
+date: "February 22, 2015"
+
+---
+
+Body Mass Index Calculation
+========================================================
+
+\[bmi = ((weight)/(height)^2)\]
+
+  
+
+
+
+How to use this app?
+========================================================
+
+You may enter your height and weight in order to see your calculated BMI
+  
+Screenshot
+========================================================
+
+![alt text](figure/screenshot.jpg)
+
+
+
+Cheers!
+
+
+
+
+
