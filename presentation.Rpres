@@ -30,14 +30,14 @@ function of Body mass index
 ========================================================
 
 
-```{r, eval=TRUE}
+
+```r
 bmi <- function(height,weight){
         
         bmi <- ((weight)/(height)^2)
         return (bmi)
 
 }
-
 ```
 
 Equation
@@ -45,9 +45,3 @@ Equation
 $$latex
     bmi = (weight)/(height)^2
 $$
-
-
-
-
-
-

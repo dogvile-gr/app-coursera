@@ -4,9 +4,6 @@
 Body Mass Index Calculation
 ========================================================
 
-$bmi = ((weight)/(height)^2)$
-
-========================================================
 
 Check the shiny app online
 
@@ -19,3 +16,8 @@ github:https://github.com/dogvile-gr/app-coursera
 Instructions
 
 Intro:https://github.com/dogvile-gr/app-coursera/blob/master/index.Rmd
+
+Presentation in Rpubs: http://rpubs.com/dogvile/presentation
+
+Presentation in github: https://github.com/dogvile-gr/app-coursera/blob/master/presentation.md
+

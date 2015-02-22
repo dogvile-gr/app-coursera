@@ -45,9 +45,3 @@ Equation
 $$latex
     bmi = (weight)/(height)^2
 $$
-
-
-
-
-
-
