@@ -19,5 +19,5 @@ Intro:https://github.com/dogvile-gr/app-coursera/blob/master/index.Rmd
 
 Presentation in Rpubs: http://rpubs.com/dogvile/presentation
 
-Presentation in github: https://github.com/dogvile-gr/app-coursera/blob/master/presentation.md
+Presentation in github: hhttps://github.com/dogvile-gr/app-coursera/blob/master/presentation.md
 
